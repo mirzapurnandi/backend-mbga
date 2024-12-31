@@ -1,8 +1,6 @@
 # Backend MBGA v0.0.2
 ## _oleh: Mirza Purnandi_
 
-Membuat CRUD REST API untuk proses penyimpanan Category, Product dan Image (stok barang). Pembuatan aplikasi ini menggunakan framework Laravel 8 dimana sudah dilengkapi Migration dan Seeder. 
-
 ### Part 1: Warm Up
 1. [Apakah hasil $foo?](#warm-up/pertanyaan-1.php)
 2. [Looping 1-100 angka](#warm-up/pertanyaan-2.php)
