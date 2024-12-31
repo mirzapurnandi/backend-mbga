@@ -14,6 +14,10 @@ Membuat CRUD REST API untuk proses penyimpanan Category, Product dan Image (stok
 6. [Query menampilkan 5 film terfavorit (rental_rate tertinggi)](#sql/pertanyaan/pertanyaan-6.sql)
 7. [Berdasarkan Pertanyaan No.6, Buat Query daftar 3 kategori tervaforit](#sql/pertanyaan/pertanyaan-7.sql)
 
+Jika ingin mencoba secara online, bisa menggunakan link berikut
+link: [SqliteOnline](https://sqliteonline.com/#sharedb=m%3Atippah)
+name: mirzapurnandi
+password: password
 ## License
 MIT
 **Regard, mirzapurnandi**
