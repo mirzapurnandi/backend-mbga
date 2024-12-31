@@ -1,0 +1,5 @@
+CREATE TABLE category (
+    category_id INT(20) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(200) NOT NULL,
+    last_update DATETIME NOT NULL
+);
